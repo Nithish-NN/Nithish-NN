@@ -25,30 +25,15 @@
 </p>
  
 ---
- 
-### 🚀 Featured Projects
-#### 📌 [Project Name 1](https://github.com/yourusername/project1)
-⭐ **Description:** Short description of the project.  
-🔧 **Tech Stack:** Python, Flask, PostgreSQL  
-📸 **Preview:**  
-![Project Preview](https://via.placeholder.com/600x300)  
-📂 **Repo:** [GitHub](https://github.com/yourusername/project1)  
- 
-#### 📌 [Project Name 2](https://github.com/yourusername/project2)
-⭐ **Description:** Another short description.  
-🔧 **Tech Stack:** React, Node.js, MongoDB  
-📸 **Preview:**  
-![Project Preview](https://via.placeholder.com/600x300)  
-📂 **Repo:** [GitHub](https://github.com/yourusername/project2)  
- 
+
 ---
  
 ### 📢 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/nithish-nuthalapati/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
  
-📫 **Email:** your.email@example.com  
+📫 **Email:** nithish.nuthalapat@gmail.com 
  
 ---
  
