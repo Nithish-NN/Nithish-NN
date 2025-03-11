@@ -1,20 +1,21 @@
 ## 👋 Hello, I'm Nithish!
-🚀 **Facilitator | [Your Expertise] | [Your Passion]**
- 
-🔹 Passionate about **[mention key skills/topics]**  
-🔹 Currently working on **[project name or company name]**  
-🔹 Open to collaborating on **[mention types of projects]**  
-🔹 Learning **[any new technology or skill you're exploring]**  
- 
+🚀 Data Analyst | Business Intelligence | Machine Learning
+
+🔹 Passionate about Data Analytics, Machine Learning, and Business Intelligence
+🔹 Currently working on Fraud Detection & EV Sales Analysis
+🔹 Open to collaborating on Data Analytics, Predictive Modeling, and AI-driven solutions
+🔹 Learning Advanced SQL Optimization & Cloud Computing (Azure, AWS)
 ---
  
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-0096D6?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
  
 ---
  
