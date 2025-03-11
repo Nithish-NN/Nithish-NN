@@ -8,6 +8,7 @@
 🔹 Open to collaborating on Data Analytics, Predictive Modeling, and AI-driven solutions
 
 🔹 Learning Advanced SQL Optimization & Cloud Computing (Azure, AWS)
+
 ---
  
 ### 💻 Tech Stack:
