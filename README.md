@@ -3,8 +3,6 @@
 
 🔹 Passionate about Data Analytics, Machine Learning, and Business Intelligence
 
-🔹 Currently working on Fraud Detection & EV Sales Analysis
-
 🔹 Open to collaborating on Data Analytics, Predictive Modeling, and AI-driven solutions
 
 🔹 Learning Advanced SQL Optimization & Cloud Computing (Azure, AWS)
